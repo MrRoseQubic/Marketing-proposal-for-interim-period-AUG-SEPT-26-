@@ -4,16 +4,16 @@
 
 - **Term:** August 1 – September 30, 2026
 - **Submitted by:** Mr. Rose
-- **Total Requested:** $23,712 USD equivalent
+- **Total Requested:** $27,712 USD equivalent
 - **QUBIC Valuation:** $423 per billion QUBIC (0.000000423 USD/QUBIC)
-- **Amount in QUBIC:** 56,056,737,589 QUBIC
+- **Amount in QUBIC:** 65,512,886,523 QUBIC
 - **Wallet:** `YSRDNFSGUYXOVGOYDODFQHMFQEFBZUVIDGLUQHIKVEWPTLNRGZPMPHMBDLAG`
 
 ---
 
 **Option 0:** ❌ No, I do not approve
 
-**Option 1:** ✅ Yes, approve 56,056,737,589 QUBIC for the August–September period
+**Option 1:** ✅ Yes, approve 65,512,886,523 QUBIC for the August–September period
 
 ---
 
@@ -44,8 +44,8 @@ A budget of $3,000/month has been allocated for a Marketing Coordinator role. In
 | Item | Calculation | Amount |
 | --- | --- | --- |
 | Team (2 Months) | $9,700 × 2 | $19,400 |
-| Tools & Subscriptions (2 Months) | $2,156 × 2 | $4,312 |
-| **Total Requested** | — | **$23,712** |
+| Tools & Subscriptions (2 Months) | $4,156 × 2 | $8,312 |
+| **Total Requested** | — | **$27,712** |
 
 ---
 
@@ -86,7 +86,8 @@ No changes from July.
 | Zapier | Connector | $30 | Connects all tools to tie in data points and analytics. |
 | Bunny CDN | Storage | $25 | Website CDN. |
 | Contingency | — | $100 | Buffer for overages and ad-hoc tool trials. |
-| **Total Monthly Tools** | | **$2,156** | |
+| Paid Media | Advertising | $2,000 | Paid media campaigns for enhanced reach and audience growth. |
+| **Total Monthly Tools** | | **$4,156** | |
 
 ---
 
@@ -112,4 +113,4 @@ This proposal extends the marketing systems currently in operation on the same l
 
 **Option 0:** ❌ No, I do not approve
 
-**Option 1:** ✅ Yes, approve 56,056,737,589 QUBIC for the August–September period
+**Option 1:** ✅ Yes, approve 65,512,886,523 QUBIC for the August–September period
